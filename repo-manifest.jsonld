@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-fields/commit/cb473d126b926621c4423ecf59387da9f0f26563",
       "git:hexsha": "cb473d126b926621c4423ecf59387da9f0f26563",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T05:48:09.422746+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/python-fields/commit/93e7c219a320f29c10ca5f2c4c1bd003c7626b1f",
