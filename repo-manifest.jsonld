@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ionelmc/python-fields/commit/cb473d126b926621c4423ecf59387da9f0f26563",
       "git:hexsha": "cb473d126b926621c4423ecf59387da9f0f26563",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ionelmc/python-fields/commit/93e7c219a320f29c10ca5f2c4c1bd003c7626b1f",
